@@ -85,3 +85,7 @@ border-radius:8px;
   <source src="videos/romantic.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<video width="100%" controls>
+  <source src="videos/movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
